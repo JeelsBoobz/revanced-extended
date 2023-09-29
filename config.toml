@@ -26,3 +26,6 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
 apkmirror-arch = "both"
+
+[TikTok]
+uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
